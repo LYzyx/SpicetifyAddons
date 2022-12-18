@@ -1,0 +1,13 @@
+{
+    "name": "BetterDiscord",
+    "description": "Replaces the Spotify colour-scheme with the BetterDiscord colour-scheme.",
+    "preview": "LYzyx/SpicetifyAddons/Themes/BetterDiscord/preview_0.png",
+    "readme": "README.md",
+    "usercss": "LYzyx/SpicetifyAddons/Themes/BetterDiscord/user.css",
+    "schemes": "LYzyx/SpicetifyAddons/Themes/BetterDiscord/color.ini",
+    "branch": "release",
+    "authors": [
+        { "name": "LYzyx", "url": "https://github.com/LYzyx" }
+    ],
+    "tags": ["dark", "minimal", "betterdiscord"]
+}
